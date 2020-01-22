@@ -1,0 +1,8 @@
+mu-plugins/
+advanced-cache.php
+object-cache.php
+mysql.sql
+*-wprbackups/
+debug.log
+hyperdb/
+hyperdb-1-1/
